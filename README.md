@@ -1,4 +1,5 @@
-# claude workspace
+# claude
+
 
 Claude Code のサンドボックス（`/home/claude/`）配下で、ユーザー（Aj1905 / jun.akita57）の作業用データを管理するためのディレクトリ。
 
