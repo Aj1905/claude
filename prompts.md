@@ -33,3 +33,17 @@ github_pat_<REDACTED>　リポジトリはclaude
 https://mydata-sigma.vercel.app/　このDBにアクセスできる？
 
 <REDACTED>に関するプロンプトをprompt.mdから消してほしい
+
+このアプリがサーバー攻撃を受けないように、脆弱性を洗い出して改善してほしい
+
+お願いします
+
+github_pat_<REDACTED>
+
+claudeのREADMEに、prompt.mdやREADME変更をリモートにpushするのにトークン発行が必要な設計にしているのは、SAKURAサーバ側からgithubをあまりいじれないようにするため　であるという旨を追記して
+
+git pullってできるんだっけ？
+
+これもREADMEに追記してgithubにpushして
+
+pushして
