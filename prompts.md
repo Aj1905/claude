@@ -29,3 +29,7 @@ administration ha
 pushは今後ずっと行うので期限は長めにしたほうがいい？
 
 github_pat_<REDACTED>　リポジトリはclaude
+
+https://mydata-sigma.vercel.app/　このDBにアクセスできる？
+
+<REDACTED>に関するプロンプトをprompt.mdから消してほしい
