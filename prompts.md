@@ -41,9 +41,3 @@ https://mydata-sigma.vercel.app/　このDBにアクセスできる？
 github_pat_<REDACTED>
 
 claudeのREADMEに、prompt.mdやREADME変更をリモートにpushするのにトークン発行が必要な設計にしているのは、SAKURAサーバ側からgithubをあまりいじれないようにするため　であるという旨を追記して
-
-git pullってできるんだっけ？
-
-これもREADMEに追記してgithubにpushして
-
-pushして
